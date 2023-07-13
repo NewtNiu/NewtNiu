@@ -6,7 +6,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](niumargirardii@gmail.com)
 
 ### (iniciante)
-![NewtNiu GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=dark)
+![NewtNiu GitHub stats](https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=midnight-purple)
 
 
 ## Tecnologias
