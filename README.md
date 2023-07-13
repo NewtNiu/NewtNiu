@@ -10,5 +10,4 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/NewtNiu/NewtNiu/blob/output/github-contribution-grid-snake.svg)
 
