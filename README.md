@@ -44,11 +44,14 @@
 
 ##
 
-<div name=Status align="center">
+<div name=Status align="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtNiu&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtNiu&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NewtNiu&bg_color=000000&color=4b0082&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Contatos
 <div name=Contatos>
@@ -56,4 +59,13 @@
   <a href="https://open.spotify.com/user/21tre5md3icbqjzmrsqjlxq2a?si=d045e3c9559a443c"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="www.linkedin.com/in/niumargirardi"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
+<br><p align="center"><b>Visit Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NewtNiu}/count.svg" /></p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=footer"/>
+
+
+
 
