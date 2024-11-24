@@ -6,7 +6,7 @@
 <br>
 
   ##
-### Linguages
+### Linguagens
 <div name=Linguagens>
 <img 
     align="left" 
