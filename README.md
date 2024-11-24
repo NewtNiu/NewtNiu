@@ -1,7 +1,7 @@
 ### Seja bem vindo ao meu Perfil!!✌️💀
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=4b0082&size=34&center=true&vCenter=true&width=1000&lines=Eai+Tudo+Bem?;Eu+sou+Niumar+Girardi;Tenho+17+anos+sou+estudante;E+busco+me+desenvolver+na+área.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=4b0082&size=34&center=true&vCenter=true&width=1000&lines=Ola+Tudo+Bem;Sou+Niumar+Girardi,+tenho+18+anos;+Sou+estudante+de+Ciência+da+Computação+na+UFFS(Universidade+Federal+da+Fronteira+Sul);+e+busco+me+desenvolver+na+area.)](https://git.io/typing-svg)
 
 <br>
 <div>
