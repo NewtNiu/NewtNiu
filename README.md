@@ -57,7 +57,7 @@
 <div name=Contatos>
   <a href="https://www.instagram.com/n1u.jpg?igsh=MXZla3luczlsdTc2Mg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://open.spotify.com/user/21tre5md3icbqjzmrsqjlxq2a?si=d045e3c9559a443c"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="www.linkedin.com/in/niumargirardi"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/niumargirardi"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=footer"/>
