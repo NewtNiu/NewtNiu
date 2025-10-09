@@ -60,12 +60,4 @@
   <a href="www.linkedin.com/in/niumargirardi"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-<br><p align="center"><b>Visit Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NewtNiu}/count.svg" /></p>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=footer"/>
-
-
-
-
