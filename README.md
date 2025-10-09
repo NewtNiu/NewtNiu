@@ -1,18 +1,15 @@
 <img width=100% src="https://i.imgur.com/4yU0NIL.jpeg"/>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=header"/>
-
-
 
 ## 🥷🏻 About me
 
 <div>
 
 ### 👋 Olá! Eu sou o Niumar Girardi
-<br>
 
 <img align="right" src="https://i.imgur.com/3CY14Y5.jpeg" width="270" style="border-radius: 15px; box-shadow: 0 6px 10px rgba(0,0,0,0.2);"/>
+<br>
 
 <div align="justify">
 
@@ -25,43 +22,30 @@ Aqui no GitHub você vai encontrar **meus projetos, estudos e experimentos** que
 </div>
 
 </div>
-<br>
 
+<br>
 
 ## 🖥️ Technologies
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: center; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3> Languages</h3>
-    <div>
-      <img alt="Python" title="Python" width="50px" style="padding: 1px;" src="https://imgur.com/PYz9Kfc.png"/>
-      <img alt="Java" title="Java" width="55px" style="padding: 1px;" src="https://imgur.com/91bltk4.png"/>
-      <img alt="C" title="C" width="50px" style="padding: 1px;" src="https://imgur.com/fgEKeBi.png"/>
-      <img alt="HTML" title="HTML" width="50px" style="padding: 1px;" src="https://imgur.com/1Xaokex.png"/>
-      <img alt="CSS" title="CSS" width="50px" style="padding: 1px;" src="https://imgur.com/SYaLNiJ.png"/>
-      <img alt="PHP" title="PHP" width="45px" style="padding: 1px;" src="https://imgur.com/ezQAHj7.jpg"/>
-    </div>
-  </div>
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3> Tools</h3>
-    <div>
-      <img alt="VSCode" title="Visual Studio Code" width="50px" style="padding: 1px;" src="https://imgur.com/zUyTqdk.png"/>
-      <img alt="GitHub" title="GitHub" width="50px" style="padding: 1px;" src="https://imgur.com/nyOnean.png"/>
-      <img alt="Ubuntu" title="Ubuntu" width="40px" style="padding: 1px;" src="https://imgur.com/2vFw3Tw.png"/>
-    </div>
-  </div>
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3> Others</h3>
-    <div>
-      <img alt="IoT" title="Internet of Things (IoT)" width="50px" style="padding: 1px;" src="https://imgur.com/OsLNQ8r.png"/>
-      <img alt="TCP/IP" title="TCP/IP Networking" width="50px" style="padding: 1px;" src="https://imgur.com/s5yqlIt.png"/>
-    </div>
-  </div>
+<div>
+  
+<img alt="Python" title="Python" width="70px" style="padding: 1px;" src="https://imgur.com/PYz9Kfc.png"/>
+<img alt="Java" title="Java" width="75px" style="padding: 1px;" src="https://imgur.com/91bltk4.png"/>
+<img alt="C" title="C" width="70px" style="padding: 1px;" src="https://imgur.com/fgEKeBi.png"/>
+<img alt="HTML" title="HTML" width="70px" style="padding: 1px;" src="https://imgur.com/1Xaokex.png"/>
+<img alt="CSS" title="CSS" width="70px" style="padding: 1px;" src="https://imgur.com/SYaLNiJ.png"/>
+<img alt="PHP" title="PHP" width="65px" style="padding: 1px;" src="https://imgur.com/ezQAHj7.jpg"/>     
+<img alt="VSCode" title="Visual Studio Code" width="70px" style="padding: 1px;" src="https://imgur.com/zUyTqdk.png"/>
+<img alt="GitHub" title="GitHub" width="70px" style="padding: 1px;" src="https://imgur.com/nyOnean.png"/>
+<img alt="Ubuntu" title="Ubuntu" width="70px" style="padding: 1px;" src="https://imgur.com/2vFw3Tw.png"/>
+<img alt="IoT" title="Internet of Things (IoT)" width="60px" style="padding: 1px;" src="https://imgur.com/OsLNQ8r.png"/>
+<img alt="TCP/IP" title="TCP/IP Networking" width="70px" style="padding: 1px;" src="https://imgur.com/s5yqlIt.png"/>
 
 </div>
+
+
+
+
 
 
 ## 📈 Estatisticas
