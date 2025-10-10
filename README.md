@@ -1,6 +1,6 @@
-<img width=100% src="https://i.imgur.com/4yU0NIL.jpeg"/>
+<img width=100% src="https://imgur.com/dpUSd7n.jpeg"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=100&section=header"/>
 
 ## 🥷🏻 About me
 
@@ -9,6 +9,7 @@
 ### 👋 Olá! Eu sou o Niumar Girardi
 
 <img align="right" src="https://i.imgur.com/3CY14Y5.jpeg" width="270" style="border-radius: 15px; box-shadow: 0 6px 10px rgba(0,0,0,0.2);"/>
+
 <br>
 
 <div align="justify">
@@ -43,21 +44,16 @@ Aqui no GitHub você vai encontrar **meus projetos, estudos e experimentos** que
 
 </div>
 
-
-
-
-
-
 ## 📈 Estatisticas
 
 <div name=Status>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=midnight-purple"/>
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtNiu&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NewtNiu&bg_color=000000&color=4b0082&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## Contacts
 
