@@ -55,6 +55,15 @@ Aqui no GitHub você vai encontrar **meus projetos, estudos e experimentos** que
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NewtNiu&bg_color=000000&color=4b0082&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+##
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NewtNiu/NewtNiu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NewtNiu/NewtNiu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NewtNiu/NewtNiu/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## Contacts
 
 <div name=Contatos>
