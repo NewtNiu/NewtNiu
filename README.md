@@ -47,8 +47,8 @@ Aqui no GitHub você vai encontrar **meus projetos, estudos e experimentos** que
 ## 📈 Estatisticas
 
 <div name=Status>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=midnight-purple"/>
-  <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtNiu&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=midnight-purple"/>
+  <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtNiu&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <br>
