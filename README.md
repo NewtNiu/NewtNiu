@@ -32,24 +32,21 @@ Consulte mais sobre minha Jornada em meu [Curriculo](https://newtniu.github.io/c
 
 ## 🖥️ Technologies
 
-<div>
-  
-<img alt="Python" title="Python" width="70px" style="padding: 1px;" src="https://imgur.com/PYz9Kfc.png"/>
-<img alt="Java" title="Java" width="75px" style="padding: 1px;" src="https://imgur.com/91bltk4.png"/>
-<img alt="C" title="C" width="70px" style="padding: 1px;" src="https://imgur.com/fgEKeBi.png"/>
-<img alt="HTML" title="HTML" width="70px" style="padding: 1px;" src="https://imgur.com/1Xaokex.png"/>
-<img alt="CSS" title="CSS" width="70px" style="padding: 1px;" src="https://imgur.com/SYaLNiJ.png"/>
-<img alt="PHP" title="PHP" width="65px" style="padding: 1px;" src="https://imgur.com/ezQAHj7.jpg"/>     
-<img alt="VSCode" title="Visual Studio Code" width="70px" style="padding: 1px;" src="https://imgur.com/zUyTqdk.png"/>
-<img alt="GitHub" title="GitHub" width="70px" style="padding: 1px;" src="https://imgur.com/nyOnean.png"/>
-<img alt="Ubuntu" title="Ubuntu" width="70px" style="padding: 1px;" src="https://imgur.com/2vFw3Tw.png"/>
-<img alt="IoT" title="Internet of Things (IoT)" width="60px" style="padding: 1px;" src="https://imgur.com/OsLNQ8r.png"/>
-<img alt="TCP/IP" title="TCP/IP Networking" width="70px" style="padding: 1px;" src="https://imgur.com/s5yqlIt.png"/>
-
+<div align="left">
+  <img alt="Python" title="Python" width="70" src="https://i.imgur.com/PYz9Kfc.png"/>
+  <img alt="Java" title="Java" width="75" src="https://i.imgur.com/91bltk4.png"/>
+  <img alt="C" title="C" width="70" src="https://i.imgur.com/fgEKeBi.png"/>
+  <img alt="HTML" title="HTML" width="70" src="https://i.imgur.com/1Xaokex.png"/>
+  <img alt="CSS" title="CSS" width="70" src="https://i.imgur.com/SYaLNiJ.png"/>
+  <img alt="PHP" title="PHP" width="65" src="https://i.imgur.com/ezQAHj7.jpg"/>
+  <img alt="VSCode" title="Visual Studio Code" width="70" src="https://i.imgur.com/zUyTqdk.png"/>
+  <img alt="GitHub" title="GitHub" width="70" src="https://i.imgur.com/nyOnean.png"/>
+  <img alt="Ubuntu" title="Ubuntu" width="70" src="https://i.imgur.com/2vFw3Tw.png"/>
+  <img alt="IoT" title="Internet of Things (IoT)" width="60" src="https://i.imgur.com/OsLNQ8r.png"/>
+  <img alt="TCP/IP" title="TCP/IP Networking" width="70" src="https://i.imgur.com/s5yqlIt.png"/>
 </div>
 
 ## 📈 Estatisticas
-
 
 <div name=Status>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=midnight-purple"/>
