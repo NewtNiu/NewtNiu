@@ -14,13 +14,17 @@
 
 <div align="justify">
 
-Tenho **19 anos** e atualmente trabalho como **Suporte Técnico na SuperIp Telecom**.
+Tenho **20 anos** e atualmente trabalho como **Suporte Técnico na SuperIp Telecom**.
 Sou estudante de **Ciência da Computação na UFFS (Universidade Federal da Fronteira Sul)** e gosto muito da área da tecnologia.
   
 Meu principal objetivo é **aprimorar meus conhecimentos na área de computação** e desenvolver minhas habilidades para me tornar um **programador completo** e **cientista da computação**, capaz de criar soluções eficientes e criativas.  
 
 Aqui no GitHub você vai encontrar **meus projetos, estudos e experimentos** que refletem minha jornada de aprendizado e evolução na área. 
 </div>
+
+<br> 
+
+Consulte mais sobre minha Jornada em meu [Curriculo](https://newtniu.github.io/curriculo/).
 
 </div>
 
@@ -45,6 +49,7 @@ Aqui no GitHub você vai encontrar **meus projetos, estudos e experimentos** que
 </div>
 
 ## 📈 Estatisticas
+
 
 <div name=Status>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NewtNiu&show_icons=true&theme=midnight-purple"/>
